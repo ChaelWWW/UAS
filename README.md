@@ -15,7 +15,7 @@ SOAL
 6. Halaman result selain display score user saat gameover, display juga bestscore di sesi main kali ini 
 
 
-Untuk Bagian animasi bird rotasi belum ada
+Untuk Bagian bird rotasi mengikuti kecepatan Y belum ada
 dan bagian shadow saya sudah mencoba implementasinya namun mengalami kendala.
 sehingga saya menggantinya dengan volume dan backsound music
 dengan source bgm youtube: https://youtu.be/Ia8rVH-fBJM?si=O9GoVjbYsF9VOxTc.
