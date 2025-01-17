@@ -14,7 +14,7 @@ SOAL
 7. Di homescreen ada opsi pilih burung/character lain
 6. Halaman result selain display score user saat gameover, display juga bestscore di sesi main kali ini 
 
-
+untuk loadnya sedikit lama karena ada beberapa source yang ukurannya cukup besar.
 Untuk Bagian bird rotasi mengikuti kecepatan Y belum berhasil saya buat
 dan bagian shadow saya sudah mencoba implementasinya namun mengalami kendala.
 sehingga saya menggantinya dengan volume dan backsound musik yang akan muncul di Start dan menghilang setelah permainan dimulai.
