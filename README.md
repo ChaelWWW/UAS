@@ -15,7 +15,8 @@ SOAL
 6. Halaman result selain display score user saat gameover, display juga bestscore di sesi main kali ini 
 
 
-Untuk Bagian bird rotasi mengikuti kecepatan Y belum ada
+Untuk Bagian bird rotasi mengikuti kecepatan Y belum berhasil saya buat
 dan bagian shadow saya sudah mencoba implementasinya namun mengalami kendala.
-sehingga saya menggantinya dengan volume dan backsound music
+sehingga saya menggantinya dengan volume dan backsound musik yang akan muncul di Start dan menghilang setelah permainan dimulai.
+juga fitur untuk pause, fitur ini akan melakukan pause pada burung dan memunculkan volume untuk mengatur musik dan menghilangkannya lagi ketika dilanjutkan.
 dengan source bgm youtube: https://youtu.be/Ia8rVH-fBJM?si=O9GoVjbYsF9VOxTc.
